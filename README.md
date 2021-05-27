@@ -1,3 +1,11 @@
+## Pokedex
+
+Fake API for pokedex
+
+## FROM
+
+[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+
 ## Try it
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
